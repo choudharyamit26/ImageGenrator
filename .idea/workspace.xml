@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa0aaf6b-2125-48bb-8108-04945ea1dbd1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/image_generator/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/image_generator/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/celerybeat-schedule.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/celerybeat-schedule.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/celerybeat-schedule.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/image_generator/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/image_generator/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_generator/image_generator/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/image_generator/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_generator/image_generator/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/images/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/images/migrations/0002_remove_generatedimage_image_url_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/images/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/images/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_generator/images/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/images/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_generator/images/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/media/generated_images/bnEpk87zG7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_generator/media/generated_images/dKkg017qxi.webp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jvf0c8v4HwuYvsdlCvrrrKf2Xv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0aaf6b-2125-48bb-8108-04945ea1dbd1" name="Changes" comment="" />
+      <created>1722272248701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722272248701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
